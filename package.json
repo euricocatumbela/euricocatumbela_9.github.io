@@ -1,0 +1,15 @@
+{
+  "name": "officialsite",
+  "version": "1.0.0",
+  "description": "My official Site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eurico Catumbela",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "nodemon": "^1.18.9"
+  }
+}
